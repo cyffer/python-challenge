@@ -1,7 +1,7 @@
 # python-challenge
 
 ## Bank Statement
-Create Python script for analyzing the financial records of your company.
+Created a Python script that analyzes a Bank financial records.
 
 The tasks used in this Python script are:
 
@@ -41,14 +41,14 @@ The Python script analyzes the votes and calculates each of the following:
 
 * After performing all the ballot counting the analysis results are provided below:
 
-Election Results
-  -------------------------
+
+## Election Results
+
   Total Votes: 3521001
-  -------------------------
+
   Khan: 63.000% (2218231)
   Correy: 20.000% (704200)
   Li: 14.000% (492940)
   O'Tooley: 3.000% (105630)
-  -------------------------
+
   Winner: Khan
-  -------------------------
